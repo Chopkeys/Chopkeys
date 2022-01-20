@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Chopkeys
+- 👀 I’m interested in discord.js
+- 🌱 I’m currently learning discord.js
+- 📫 How to reach me disocrd! - Chopkeys#0211
