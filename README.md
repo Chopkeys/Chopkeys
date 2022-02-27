@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Chopkeys
-- 👀 I’m currently working on my Discord bot Rumbler
-- 🌱 I’m currently learning discord.js for my bot
-- 📫 How to reach me disord! - Chopkeys#0211
+- 👀 I’m currently working on my Discord Bot Rumbler and made a Discord Bot for my friends Discord server
+- 🌱 I’m currently learning discord.js for my bot (And also looking to learn eris)
+- 📫 How to reach me on disord! - add Chopkeys#0211
