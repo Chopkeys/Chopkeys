@@ -75,7 +75,7 @@ GPG_PubKey: "D29EE374F1D4E0A630A5A2256567A9918662A1C4"
 ![MongoDB](https://user-images.githubusercontent.com/74418041/159856234-6ef1fd81-75d4-4963-ad02-9aaa6186b526.png)
 -->
 
-![Languages](https://skillicons.dev/icons?i=git,html,css,js,ts,ruby,go,lua,py,mongo,docker,linux,blender,cloudflare,vscode)
+![Languages](https://skillicons.dev/icons?i=git,html,css,js,ts,py,mongo,vscode)
 
 <br>
 
