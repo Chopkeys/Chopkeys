@@ -2,11 +2,14 @@
 # 📓 Some of my projects you can find here!
 
 
+
+
 ## 🔧 Tools or Languages I use for development:
 
 ![Languages](https://skillicons.dev/icons?i=html,css,js,ts,py,mongo,vscode)
 
 <br>
+
 
 
 Any/All of my links ->
