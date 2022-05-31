@@ -86,28 +86,10 @@ GPG_PubKey: "D29EE374F1D4E0A630A5A2256567A9918662A1C4"
 <br>
 
 
-All my links:
-<a href="https://devcomp.tk" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/-Website-0D1117?style=flat-square&logo=googlechrome&logoColor=white"></a>
-<a href="https://devcomp.tk/discord" target="_blank"><img alt="discord" align="center" src="https://img.shields.io/badge/-Discord-0D1117?style=flat-square&logo=discord&logoColor=dark-blue"></a>
-<a href="https://twitter.com/DevComp_" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/-Twitter-0D1117?style=flat-square&logo=twitter&logoColor=dark-blue"></a>
-<a href="https://spotify.devcomp.tk/" target="_blank"><img alt="spotify" align="center" src="https://img.shields.io/badge/-Spotify-0D1117?style=flat-square&logo=spotify&logoColor=dark-green"></a>
-<a href="https://www.roblox.com/users/1226830396/profile/" target="_blank"><img alt="roblox" align="center" src="https://img.shields.io/badge/-Roblox-0D1117?style=flat-square&logo=roblox&logoColor=grey"></a>
-<a href="https://www.youtube.com/channel/UCh9KkPjILEebJihTG_4s-Lg/" target="_blank"><img alt="youtube" align="center" src="https://img.shields.io/badge/-YouTube-0D1117?style=flat-square&logo=youtube&logoColor=red"></a>
+Any/All of my links
+<a href="https://twitter.com/Chopkeys" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/-Twitter-0D1117?style=flat-square&logo=twitter&logoColor=dark-blue"></a>
+<a href="https://www.youtube.com/channel/UCzsqP5C2cYMOcjecg5DeduA" target="_blank"><img alt="youtube" align="center" src="https://img.shields.io/badge/-YouTube-0D1117?style=flat-square&logo=youtube&logoColor=red"></a>
 <br>
-
-
-
-
-
-
-
-
-<h2 align="left">🔴 Discord Status:</h2>
-
- 
-![Discord](https://lanyard-profile-readme.vercel.app/api/893762371770802227?hideTimestamp=false&idleMessage=No+activity+at+the+moment...&hideDiscrim=true)
-
-Psst... Did you know that the emoji next to the text in the heading updates based on my status? Do it for yourself using [this](https://github.com/CompeyDev/discord-status-action).
 
 
 ## 📊 GitHub Stats:
