@@ -8,7 +8,9 @@
 
 <br>
 
+#### My Stats:
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?chopkeys=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 Any/All of my links ->
 <a href="https://twitter.com/Chopkeys" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/-Twitter-0D1117?style=flat-square&logo=twitter&logoColor=dark-blue"></a>
