@@ -1,11 +1,8 @@
 # 👋 Hi, I'm Chopkeys! 
-## I develop discord bots and more in my spare time.
-## 📓 Some of my projects you can find here!
 
+### 🤖 I develop discord bots and more in my spare time.
 
-
-
-## 🔧 Tools or Languages I use for development:
+#### 🔧 Tools or Languages I use for development:
 
 ![Languages](https://skillicons.dev/icons?i=html,css,js,ts,py,mongo,vscode)
 
