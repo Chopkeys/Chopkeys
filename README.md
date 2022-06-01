@@ -1,5 +1,6 @@
-# 👋 Hi, I'm Chopkeys! I develop discord bots and more in my spare time.
-# 📓 Some of my projects you can find here!
+# 👋 Hi, I'm Chopkeys! 
+## I develop discord bots and more in my spare time.
+## 📓 Some of my projects you can find here!
 
 
 
