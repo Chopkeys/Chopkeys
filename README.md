@@ -11,8 +11,3 @@
 #### My Stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chopkeys)](https://github.com/anuraghazra/github-readme-stats)
-
-Any/All of my links ->
-<a href="https://twitter.com/Chopkeys" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/-Twitter-0D1117?style=flat-square&logo=twitter&logoColor=dark-blue"></a>
-<a href="https://www.youtube.com/channel/UCzsqP5C2cYMOcjecg5DeduA" target="_blank"><img alt="youtube" align="center" src="https://img.shields.io/badge/-YouTube-0D1117?style=flat-square&logo=youtube&logoColor=red"></a>
-<br>
